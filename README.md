@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋 ! My name is Arya Shidore and I'm a Full Stack Web Developer, from India</h2>
-<img align="center height="180" src="https://camo.githubusercontent.com/bef9b603e2aa42f3825bc8d279ae1db90ad4ef16c7c6cb24361e0e7e5f817f30/68747470733a2f2f737461746963312e733132332d63646e2d7374617469632d612e636f6d2f75706c6f6164732f353535353634312f6e6f726d616c5f363134363530616133633261312e676966">
+<img align="center height="100" src="https://camo.githubusercontent.com/bef9b603e2aa42f3825bc8d279ae1db90ad4ef16c7c6cb24361e0e7e5f817f30/68747470733a2f2f737461746963312e733132332d63646e2d7374617469632d612e636f6d2f75706c6f6164732f353535353634312f6e6f726d616c5f363134363530616133633261312e676966">
 <p>
  <b> A passionate Full Stack Web Developer from India, dedicated to crafting innovative and efficient web solutions. With expertise in both frontend and backend development, I thrive on creating seamless user experiences and robust, scalable applications. Explore my repositories to witness my journey in code and the projects that reflect my dedication to the world of web development.</b>
 </p>
