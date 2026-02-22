@@ -1,6 +1,8 @@
 name: Update README stats
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
@@ -33,7 +35,7 @@ jobs:
       - name: Generate streak stats
         run: |
           mkdir -p profile
-          curl -fsSL "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=radical&hide_border=false" -o profile/streak.svg || true
+          curl -fsSL -H "Accept: image/svg+xml" "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=radical&hide_border=false" -o profile/streak.svg || true
 
       - name: Commit cards
         run: |
